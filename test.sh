@@ -2,4 +2,4 @@
 ls
 uname -a
 echo "haha"
-##ls dsklafjdsklafjdslka
+ls dsklafjdsklafjdslka
