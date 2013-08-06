@@ -1,3 +1,7 @@
+dsfa
 #ls salfdslkafdsads
 ls
-#ls dsklafjdsklafjdslka
+uname -a
+echo "haha"
+ls dsklafjdsklafjdslka
+echo "what the"
